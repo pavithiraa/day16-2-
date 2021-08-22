@@ -1,0 +1,14 @@
+body{
+    margin:20px 30px
+}
+table{
+    background-color: rgb(255, 251, 251);
+    width:15% ;
+    
+}
+spaN{
+    color: red;
+}
+.checked {
+color: orange;
+}
